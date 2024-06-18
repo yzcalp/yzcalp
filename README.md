@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Data Science
+- 🌱 Passionate about the world of Data Science!
+- ⚡ Solving Python & MYSQL Problems
 <!--
 **yzcalp/yzcalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
